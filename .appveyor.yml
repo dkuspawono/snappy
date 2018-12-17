@@ -36,3 +36,4 @@ build_script:
 
 test_script:
   - out\%CONFIGURATION%\snappy_unittest
+  
